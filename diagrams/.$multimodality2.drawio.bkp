@@ -1,0 +1,25 @@
+<mxfile host="Electron" modified="2024-04-26T15:19:00.709Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="hlpn9SQnkb7EBqSpPWCE" version="21.2.8" type="device">
+  <diagram name="Page-1" id="jvN1vn6xcUvSkcwPadE1">
+    <mxGraphModel dx="954" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aeJUa1BujdtRLi33e14E-7" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=135;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeJUa1BujdtRLi33e14E-9" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=45;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeJUa1BujdtRLi33e14E-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeJUa1BujdtRLi33e14E-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="305" y="125" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aeJUa1BujdtRLi33e14E-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="175" y="235" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
